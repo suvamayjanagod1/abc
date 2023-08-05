@@ -5,3 +5,6 @@ Feature: Test Guru99 application
 
 		#Chetna As a software engineer
     When user enter phone
+    
+    #Suvamay as a test engineer
+    Then enter last name
